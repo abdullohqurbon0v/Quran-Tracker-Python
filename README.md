@@ -28,7 +28,7 @@ Sura Tracker is a simple Python application that helps users track the Quranic s
 
 ```bash
 git clone  https://github.com/abdullohqurbon0v/Quran-Tracker-Python.git
-cd sura-tracker
+cd Quran-Tracker-Python
 ```
 
 ## Installation
@@ -36,7 +36,7 @@ cd sura-tracker
 1. **Run the script**:
 
 ```bash
-python sura_tracker.py
+python main.py
 ```
 
 2. **Choose an option from the menu**:
