@@ -33,8 +33,30 @@ cd sura-tracker
 
 ## Installation
 
-2. **Run the script**:
+1. **Run the script**:
 
 ```bash
 python sura_tracker.py
+```
+
+2. **Choose an option from the menu**:
+
+```
+1 - Add a new surah
+2 - View all surahs
+3 - Edit a surah
+4 - Delete a surah
+```
+
+3. **Choose an option from the menu**:
+
+```
+>>> 1
+Enter the name of the new surah: Fatiha
+How many ayahs have you memorized from Fatiha? 7
+'Fatiha' surah added with 7 ayahs!
+
+>>> 2
+All surahs:
+1. Fatiha - 7 ayahs memorized
 ```
